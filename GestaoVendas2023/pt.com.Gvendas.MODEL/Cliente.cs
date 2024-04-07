@@ -13,10 +13,10 @@ namespace GestaoVendas2023.pt.com.Gvendas.MODEL
         public string Nome { get; set; }
         public string Email { get; set; }
         public int Telemovel { get; set; }
+        public string Profissao { get; set; }
         public string Endereco { get; set; }
         public string Postal { get; set; }
         public string Cidade { get; set; }
         public string Pais { get; set; }
-        public string Profissao { get; set; }
     }
 }
